@@ -7,17 +7,17 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino NANO ESP32
 
-motors: 
+motors: N20 DC motor 6V
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: QTR-8A
 
-batteries:
+batteries: 2x 18650 XTAR
 
-wireless communication:
+wireless communication: WiFi
 
 distance sensor - motors:
 
