@@ -11,3 +11,6 @@
 | 6 | Battery holder| 18650 Battery holder- leaf spring contacts - Wires per cell | Nieuw | €1,5 | 2 | € 3 |
 | 7 | PCB | Experiment PCB 9cm*15cm - Double sided| Nieuw | €2,5 | 1 | €2,5 |
 | 8 | Sensor | QTR-8A reflectance sensor array- analog - Pololu 960 | Nieuw | €11 | 1 | €11 |
+| 9 | wielen | wielen | recup | / | / | / |
+
+Totaal: €71
