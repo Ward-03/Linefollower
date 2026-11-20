@@ -13,9 +13,11 @@
 | 8 | Sensor | QTR-8A reflectance sensor array- analog - Pololu 960 | Nieuw | €11 | 1 | €11 |
 | 9 | Wielen | Wielen | Recup | / | / | / |
 | 10 | Draad | 0.25mm draad | Recup | / | / | / |
-| 11 | Drukknop | Drukknop | Recup | / | / | / |
-| 12 | Boutjes |Boutjes M2 | Recup | / | / | / |
-| 13 | Motorhouders | N20 Motorhouders Metaal | Recup | / | / | / |
-| 14 | Led | Led | Recup | / | | / | / |
+| 11 | Drukknop | Drukknop | Recup | / | 1 | / |
+| 12 | Boutjes |Boutjes M2 | Recup | / | 5 | / |
+| 13 | Motorhouders | N20 Motorhouders Metaal | Recup | / | 2 | / |
+| 14 | Led | Led | Recup | / | 1 | / |
+| 15 | Weerstand | Weerstand 270Ω | Recup | / | 1 | / |
+| 16 | AAN/UIT schakelaar | Small switch for PCB or breadboard | Nieuw | €0,20 | 1 | €0,20 |
 
-Totaal: €71
+Totaal: €71,20
